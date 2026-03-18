@@ -1,9 +1,9 @@
-# Hi, I'm Mohammad Saiful Alam 👋
+# Hi, I'm Mohammad Saiful Alam
 
 Research Officer at Bangladesh Forest Research Institute (BFRI)
 Data Science & Machine Learning Enthusiast
 
-## 🔍 Currently Learning
+## Currently Learning
 
 * Data Science
 * Machine Learning
@@ -18,7 +18,7 @@ Data Science & Machine Learning Enthusiast
 * Seaborn
 * Statistical Analysis
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### 1️⃣ Netflix Data Cleaning Project
 
