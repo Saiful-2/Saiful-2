@@ -47,7 +47,7 @@
 
 - Built Machine Learning model to predict forest cover types  
 - Feature engineering + model tuning  
-- 🚀 **Streamlit App:** https://your-streamlit-link  
+- 🚀 **Streamlit App:** https://huggingface.co/spaces/saiful-alam/forest-cover-app  
 
 ---
 
